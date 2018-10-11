@@ -6,8 +6,8 @@ html {
 }
 
 *, *::before, *::after {
-    box-sizing: inherit;
-  }
+  box-sizing: inherit;
+}
 
 .cards {
   margin: 0;
